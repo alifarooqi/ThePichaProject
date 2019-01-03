@@ -515,7 +515,6 @@ border-top-color: #f9c922; -webkit-animation: spin 1.5s linear infinite; /* Chro
 
 .black-box p{
 	margin-left: 10px;
-	line-height: 2%;
 }
 
 .black-box p b{
@@ -527,6 +526,7 @@ border-top-color: #f9c922; -webkit-animation: spin 1.5s linear infinite; /* Chro
 	border-radius: 10px;
 	text-align: center !important;
 	color: white;
+	padding: 80px 45px !important;
 }
 
 .ninja-logo{
