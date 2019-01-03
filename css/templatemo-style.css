@@ -619,6 +619,7 @@ border-top-color: #f9c922; -webkit-animation: spin 1.5s linear infinite; /* Chro
 .video-container-container{
 	width: 70%;
 	margin: auto;
+	max-width: 650px;
 }
 
 .picha-ninja-container{
