@@ -535,7 +535,7 @@ border-top-color: #f9c922; -webkit-animation: spin 1.5s linear infinite; /* Chro
 }
 
 #picha-events{
-	background: url("../img/Events.JPG");
+	background: url("../img/Events.jpg");
 	background-size: cover;
 	background-position: center;
 }
