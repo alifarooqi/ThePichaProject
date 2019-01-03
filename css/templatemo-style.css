@@ -515,7 +515,6 @@ border-top-color: #f9c922; -webkit-animation: spin 1.5s linear infinite; /* Chro
 
 .black-box p{
 	margin-left: 10px;
-	line-height: 2%;
 }
 
 .black-box p b{
@@ -527,6 +526,7 @@ border-top-color: #f9c922; -webkit-animation: spin 1.5s linear infinite; /* Chro
 	border-radius: 10px;
 	text-align: center !important;
 	color: white;
+	padding: 80px 45px !important;
 }
 
 .ninja-logo{
@@ -535,7 +535,7 @@ border-top-color: #f9c922; -webkit-animation: spin 1.5s linear infinite; /* Chro
 }
 
 #picha-events{
-	background: url("../img/Events.JPG");
+	background: url("../img/Events.jpg");
 	background-size: cover;
 	background-position: center;
 }
@@ -678,7 +678,7 @@ border-top-color: #f9c922; -webkit-animation: spin 1.5s linear infinite; /* Chro
 		background-position: center;
 	}
 	#picha-events-container{
-		background: url("../img/Events.JPG");
+		background: url("../img/Events.jpg");
 		background-size: cover;
 		background-position: center;
 	}
