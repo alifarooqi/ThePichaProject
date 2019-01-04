@@ -530,8 +530,8 @@ border-top-color: #f9c922; -webkit-animation: spin 1.5s linear infinite; /* Chro
 }
 
 .ninja-logo{
-	-webkit-filter: drop-shadow(2px 1px 5px #c59d5f) drop-shadow(-1px -1px 0 #c59d5f);
-	filter: drop-shadow(2px 1px 5px #c59d5f) drop-shadow(-1px -1px 0 #c59d5f);
+	-webkit-filter: drop-shadow(2px 1px 5px #EECE5D) drop-shadow(-1px -1px 0 #EECE5D);
+	filter: drop-shadow(2px 1px 5px #EECE5D) drop-shadow(-1px -1px 0 #EECE5D);
 }
 
 #picha-events{

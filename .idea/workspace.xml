@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fade34a-0b5f-4685-811f-de7c4d3fdaa4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/templatemo_491_flat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/templatemo_491_flat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/templatemo-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/templatemo-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Picha Ninja Finalised (Transparent).png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Picha Ninja Finalised (Transparent).png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/hero-slider-main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/hero-slider-main.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,11 +24,10 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="513">
-                  <caret line="344" column="29" selection-start-line="344" selection-start-column="29" selection-end-line="344" selection-end-column="29" />
+                <state relative-caret-position="288">
+                  <caret line="72" column="78" selection-start-line="72" selection-start-column="78" selection-end-line="72" selection-end-column="78" />
                   <folding>
                     <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#h2#0;n#div#2;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#li#1;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -43,16 +45,16 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/templatemo-style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1146">
-                  <caret line="621" column="21" selection-start-line="621" selection-start-column="21" selection-end-line="621" selection-end-column="21" />
+                <state relative-caret-position="322">
+                  <caret line="533" column="43" selection-start-line="533" selection-start-column="43" selection-end-line="533" selection-end-column="43" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/js/hero-slider-main.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="210">
@@ -134,6 +136,7 @@
       <find>what</find>
       <find>toggleClass(</find>
       <find>checkVideo</find>
+      <find>upload</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -144,8 +147,8 @@
       <list>
         <option value="$PROJECT_DIR$/feedback_form/send_mail.php" />
         <option value="$PROJECT_DIR$/css/hero-slider-style.css" />
-        <option value="$PROJECT_DIR$/css/templatemo-style.css" />
         <option value="$PROJECT_DIR$/js/hero-slider-main.js" />
+        <option value="$PROJECT_DIR$/css/templatemo-style.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -216,12 +219,12 @@
       <workItem from="1545962881114" duration="10521000" />
       <workItem from="1546221748172" duration="4451000" />
       <workItem from="1546394140422" duration="20526000" />
-      <workItem from="1546568527798" duration="1041000" />
+      <workItem from="1546568527798" duration="2464000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36539000" />
+    <option name="totallyTimeSpent" value="37962000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -252,13 +255,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/feedback_form/feedback_form.html" />
     <entry file="file://$PROJECT_DIR$/feedback_form/send_mail.php" />
-    <entry file="file://$PROJECT_DIR$/css/templatemo-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1146">
-          <caret line="621" column="21" selection-start-line="621" selection-start-column="21" selection-end-line="621" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/hero-slider-style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3390">
@@ -307,13 +303,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/templatemo-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="533" column="43" selection-start-line="533" selection-start-column="43" selection-end-line="533" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="344" column="29" selection-start-line="344" selection-start-column="29" selection-end-line="344" selection-end-column="29" />
+        <state relative-caret-position="288">
+          <caret line="72" column="78" selection-start-line="72" selection-start-column="78" selection-end-line="72" selection-end-column="78" />
           <folding>
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#2;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#li#1;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" />
