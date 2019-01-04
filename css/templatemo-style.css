@@ -120,6 +120,7 @@ button:focus { outline: none; }
 }
 .tm-textbox-1-col {
 	margin: 0;
+	width: 100%;
 }
 
 .cd-hero-slider .tm-text { 
