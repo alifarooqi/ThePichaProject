@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fade34a-0b5f-4685-811f-de7c4d3fdaa4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/templatemo-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/templatemo-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,14 +20,18 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="270">
-                  <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+                <state relative-caret-position="470">
+                  <caret line="166" column="4" selection-start-line="166" selection-start-column="4" selection-end-line="166" selection-end-column="4" />
                   <folding>
-                    <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#h2#0;n#div#2;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="e#15904#15910#0" expanded="true" />
+                    <element signature="n#li#1;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="e#10914#15268#0" />
+                    <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#script#5;n#body#0;n#html#0;n#!!top" />
                   </folding>
                 </state>
               </provider>
@@ -37,47 +41,54 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/templatemo-style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="293">
+                <state relative-caret-position="1146">
                   <caret line="621" column="21" selection-start-line="621" selection-start-column="21" selection-end-line="621" selection-end-column="21" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/js/hero-slider-main.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="79">
-                  <caret line="51" column="30" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
+                <state relative-caret-position="60">
+                  <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
                   <folding>
-                    <element signature="e#678#778#0" />
+                    <element signature="e#162#1783#0" />
                     <element signature="e#854#1659#0" />
                     <element signature="e#956#1655#0" />
                     <element signature="e#1156#1256#0" />
                     <element signature="e#1262#1362#0" />
-                    <element signature="e#1806#2180#0" />
-                    <element signature="e#1987#2034#0" />
-                    <element signature="e#2241#2642#0" />
-                    <element signature="e#2422#2469#0" />
-                    <element signature="e#2692#2841#0" />
-                    <element signature="e#2889#3043#0" />
-                    <element signature="e#2926#3040#0" />
-                    <element signature="e#3078#3500#0" />
-                    <element signature="e#3121#3254#0" />
-                    <element signature="e#3260#3370#0" />
-                    <element signature="e#3535#4070#0" />
-                    <element signature="e#3593#4065#0" />
-                    <element signature="e#3663#4061#0" />
-                    <element signature="e#4120#4510#0" />
-                    <element signature="e#4556#4616#0" />
-                    <element signature="e#4661#4955#0" />
-                    <element signature="e#4740#4932#0" />
-                    <element signature="e#4808#4872#0" />
-                    <element signature="e#5021#5766#0" />
-                    <element signature="e#5839#5913#0" />
-                    <element signature="n#!!block;n#f#0" />
+                    <element signature="e#1706#1779#0" />
+                    <element signature="e#1844#2218#0" />
+                    <element signature="e#2025#2072#0" />
+                    <element signature="e#2279#2680#0" />
+                    <element signature="e#2460#2507#0" />
+                    <element signature="e#2730#2879#0" />
+                    <element signature="e#2927#3081#0" />
+                    <element signature="e#2964#3078#0" />
+                    <element signature="e#3116#3538#0" />
+                    <element signature="e#3159#3292#0" />
+                    <element signature="e#3298#3408#0" />
+                    <element signature="e#3573#4108#0" />
+                    <element signature="e#3631#4103#0" />
+                    <element signature="e#3701#4099#0" />
+                    <element signature="e#4158#4548#0" />
+                    <element signature="e#4594#4654#0" />
+                    <element signature="e#4699#4993#0" />
+                    <element signature="e#4778#4970#0" />
+                    <element signature="e#4846#4910#0" />
+                    <element signature="e#5072#5817#0" />
+                    <element signature="e#5183#5801#0" />
+                    <element signature="e#5348#5408#0" />
+                    <element signature="e#5564#5627#0" />
+                    <element signature="e#5644#5789#0" />
+                    <element signature="e#5891#5961#0" />
+                    <element signature="n#!!block;n#adjustSize#0" />
+                    <element signature="e#6007#6082#0" />
+                    <element signature="e#6091#6164#0" />
                   </folding>
                 </state>
               </provider>
@@ -86,8 +97,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/hero-slider-style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="375">
-                  <caret line="226" column="1" lean-forward="true" selection-start-line="226" selection-start-column="1" selection-end-line="226" selection-end-column="1" />
+                <state relative-caret-position="3390">
+                  <caret line="226" column="1" selection-start-line="226" selection-start-column="1" selection-end-line="226" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -120,6 +131,7 @@
       <find>join-us</find>
       <find>events</find>
       <find>what</find>
+      <find>toggleClass(</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -131,12 +143,12 @@
         <option value="$PROJECT_DIR$/feedback_form/send_mail.php" />
         <option value="$PROJECT_DIR$/js/hero-slider-main.js" />
         <option value="$PROJECT_DIR$/css/hero-slider-style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/templatemo-style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="801" />
@@ -202,14 +214,15 @@
       <workItem from="1545962881114" duration="10521000" />
       <workItem from="1546221748172" duration="4451000" />
       <workItem from="1546394140422" duration="20526000" />
+      <workItem from="1546568527798" duration="334000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35498000" />
+    <option name="totallyTimeSpent" value="35832000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="801" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24947146" />
@@ -235,80 +248,79 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/feedback_form/feedback_form.html">
+    <entry file="file://$PROJECT_DIR$/feedback_form/feedback_form.html" />
+    <entry file="file://$PROJECT_DIR$/feedback_form/send_mail.php" />
+    <entry file="file://$PROJECT_DIR$/css/templatemo-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="22" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feedback_form/send_mail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-333">
-          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        <state relative-caret-position="1146">
+          <caret line="621" column="21" selection-start-line="621" selection-start-column="21" selection-end-line="621" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/hero-slider-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="226" column="1" lean-forward="true" selection-start-line="226" selection-start-column="1" selection-end-line="226" selection-end-column="1" />
+        <state relative-caret-position="3390">
+          <caret line="226" column="1" selection-start-line="226" selection-start-column="1" selection-end-line="226" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/hero-slider-main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="51" column="30" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
+        <state relative-caret-position="60">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
           <folding>
-            <element signature="e#678#778#0" />
+            <element signature="e#162#1783#0" />
             <element signature="e#854#1659#0" />
             <element signature="e#956#1655#0" />
             <element signature="e#1156#1256#0" />
             <element signature="e#1262#1362#0" />
-            <element signature="e#1806#2180#0" />
-            <element signature="e#1987#2034#0" />
-            <element signature="e#2241#2642#0" />
-            <element signature="e#2422#2469#0" />
-            <element signature="e#2692#2841#0" />
-            <element signature="e#2889#3043#0" />
-            <element signature="e#2926#3040#0" />
-            <element signature="e#3078#3500#0" />
-            <element signature="e#3121#3254#0" />
-            <element signature="e#3260#3370#0" />
-            <element signature="e#3535#4070#0" />
-            <element signature="e#3593#4065#0" />
-            <element signature="e#3663#4061#0" />
-            <element signature="e#4120#4510#0" />
-            <element signature="e#4556#4616#0" />
-            <element signature="e#4661#4955#0" />
-            <element signature="e#4740#4932#0" />
-            <element signature="e#4808#4872#0" />
-            <element signature="e#5021#5766#0" />
-            <element signature="e#5839#5913#0" />
-            <element signature="n#!!block;n#f#0" />
+            <element signature="e#1706#1779#0" />
+            <element signature="e#1844#2218#0" />
+            <element signature="e#2025#2072#0" />
+            <element signature="e#2279#2680#0" />
+            <element signature="e#2460#2507#0" />
+            <element signature="e#2730#2879#0" />
+            <element signature="e#2927#3081#0" />
+            <element signature="e#2964#3078#0" />
+            <element signature="e#3116#3538#0" />
+            <element signature="e#3159#3292#0" />
+            <element signature="e#3298#3408#0" />
+            <element signature="e#3573#4108#0" />
+            <element signature="e#3631#4103#0" />
+            <element signature="e#3701#4099#0" />
+            <element signature="e#4158#4548#0" />
+            <element signature="e#4594#4654#0" />
+            <element signature="e#4699#4993#0" />
+            <element signature="e#4778#4970#0" />
+            <element signature="e#4846#4910#0" />
+            <element signature="e#5072#5817#0" />
+            <element signature="e#5183#5801#0" />
+            <element signature="e#5348#5408#0" />
+            <element signature="e#5564#5627#0" />
+            <element signature="e#5644#5789#0" />
+            <element signature="e#5891#5961#0" />
+            <element signature="n#!!block;n#adjustSize#0" />
+            <element signature="e#6007#6082#0" />
+            <element signature="e#6091#6164#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+        <state relative-caret-position="470">
+          <caret line="166" column="4" selection-start-line="166" selection-start-column="4" selection-end-line="166" selection-end-column="4" />
           <folding>
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#2;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#15904#15910#0" expanded="true" />
+            <element signature="n#li#1;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#10914#15268#0" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#5;n#body#0;n#html#0;n#!!top" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/templatemo-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="621" column="21" selection-start-line="621" selection-start-column="21" selection-end-line="621" selection-end-column="21" />
         </state>
       </provider>
     </entry>
