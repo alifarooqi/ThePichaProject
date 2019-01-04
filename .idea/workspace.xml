@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8fade34a-0b5f-4685-811f-de7c4d3fdaa4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/hero-slider-main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/hero-slider-main.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,8 +21,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="470">
-                  <caret line="166" column="4" selection-start-line="166" selection-start-column="4" selection-end-line="166" selection-end-column="4" />
+                <state relative-caret-position="513">
+                  <caret line="344" column="29" selection-start-line="344" selection-start-column="29" selection-end-line="344" selection-end-column="29" />
                   <folding>
                     <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -31,7 +32,8 @@
                     <element signature="e#10914#15268#0" />
                     <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#script#5;n#body#0;n#html#0;n#!!top" />
+                    <element signature="e#17236#18152#0" />
+                    <element signature="e#18127#18159#0" />
                   </folding>
                 </state>
               </provider>
@@ -53,10 +55,9 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/js/hero-slider-main.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+                <state relative-caret-position="210">
+                  <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
                   <folding>
-                    <element signature="e#162#1783#0" />
                     <element signature="e#854#1659#0" />
                     <element signature="e#956#1655#0" />
                     <element signature="e#1156#1256#0" />
@@ -132,6 +133,7 @@
       <find>events</find>
       <find>what</find>
       <find>toggleClass(</find>
+      <find>checkVideo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -141,9 +143,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/feedback_form/send_mail.php" />
-        <option value="$PROJECT_DIR$/js/hero-slider-main.js" />
         <option value="$PROJECT_DIR$/css/hero-slider-style.css" />
         <option value="$PROJECT_DIR$/css/templatemo-style.css" />
+        <option value="$PROJECT_DIR$/js/hero-slider-main.js" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -214,12 +216,12 @@
       <workItem from="1545962881114" duration="10521000" />
       <workItem from="1546221748172" duration="4451000" />
       <workItem from="1546394140422" duration="20526000" />
-      <workItem from="1546568527798" duration="334000" />
+      <workItem from="1546568527798" duration="1041000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35832000" />
+    <option name="totallyTimeSpent" value="36539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -266,10 +268,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/hero-slider-main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        <state relative-caret-position="210">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
           <folding>
-            <element signature="e#162#1783#0" />
             <element signature="e#854#1659#0" />
             <element signature="e#956#1655#0" />
             <element signature="e#1156#1256#0" />
@@ -308,8 +309,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="166" column="4" selection-start-line="166" selection-start-column="4" selection-end-line="166" selection-end-column="4" />
+        <state relative-caret-position="513">
+          <caret line="344" column="29" selection-start-line="344" selection-start-column="29" selection-end-line="344" selection-end-column="29" />
           <folding>
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -319,7 +320,8 @@
             <element signature="e#10914#15268#0" />
             <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#script#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#17236#18152#0" />
+            <element signature="e#18127#18159#0" />
           </folding>
         </state>
       </provider>

@@ -281,7 +281,7 @@ http://www.templatemo.com/tm-491-flat
         <script src="js/jquery.magnific-popup.min.js"></script> <!-- Magnific popup (http://dimsemenov.com/plugins/magnific-popup/) -->
         
         <script>
-
+            let start = new Date();
             function adjustHeightOfPage(pageNo) {
                
                 // Get the page height
@@ -303,10 +303,8 @@ http://www.templatemo.com/tm-491-flat
 
             }
 
-            /*
-                Everything is loaded including images.
-            */
-            $(window).load(function(){
+            function loaded(){
+                console.log("Loading Time:", new Date() - start)
 
                 adjustHeightOfPage(1); // Adjust page height
 
@@ -315,29 +313,42 @@ http://www.templatemo.com/tm-491-flat
                 $('.tm-img-gallery').magnificPopup({
                     delegate: 'a', // child items selector, by clicking on it popup will open
                     type: 'image',
-                    gallery:{enabled:true}                
+                    gallery:{enabled:true}
                 });
 
-                /* Collapse menu after click 
+                /* Collapse menu after click
                 -----------------------------------------*/
                 $('#tmNavbar a').click(function(){
                     $('#tmNavbar').collapse('hide');
 
-                    adjustHeightOfPage($(this).data("no")); // Adjust page height       
+                    adjustHeightOfPage($(this).data("no")); // Adjust page height
                 });
 
-                /* Browser resized 
+                /* Browser resized
                 -----------------------------------------*/
                 $( window ).resize(function() {
                     var currentPageNo = $(".cd-hero-slider li.selected .js-tm-page-content").data("page-no");
                     adjustHeightOfPage( currentPageNo );
                 });
-        
+
                 // Remove preloader
                 // https://ihatetomatoes.net/create-custom-preloading-screen/
                 $('body').addClass('loaded');
-                           
-            });
+            }
+            /*
+                Everything is loaded including images.
+            */
+            let x=0;
+            let interval = setInterval(()=>{
+                if(x >= 1){
+                    console.log("Forced loaded!")
+                    loaded();
+                    clearInterval(interval);
+                }
+                x++;
+            }, 1000);
+            interval();
+            $(window).load(loaded);
 
         </script>             
 

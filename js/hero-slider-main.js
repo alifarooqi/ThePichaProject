@@ -12,7 +12,7 @@ jQuery(document).ready(function($){
 			autoPlayDelay = 5000;
 
 		//upload videos (if not on mobile devices)
-		uploadVideo(slidesWrapper);
+		// uploadVideo(slidesWrapper);
 
 		//autoplay slider
 		setAutoplay(slidesWrapper, slidesNumber, autoPlayDelay);
